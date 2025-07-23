@@ -1,0 +1,22 @@
+{
+  "name": "openfront-replay-decoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "no\\"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TKTK123456/openfrontReplayDecoder.git"
+  },
+  "author": "TKTK1234567",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TKTK123456/openfrontReplayDecoder/issues"
+  },
+  "homepage": "https://github.com/TKTK123456/openfrontReplayDecoder#readme",
+  "dependencies": {
+    "npm": "^11.4.2"
+  }
+}
